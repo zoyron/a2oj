@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-  cout << "hello world" << endl;
+  string nam;
+  cin >> nam;
+  cout << "Good evening, " << nam << endl;
   return 0;
 }
