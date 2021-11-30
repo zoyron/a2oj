@@ -1,15 +1,6 @@
 #include <bits/stdc++.h>
-#define int long long int
-#define endl '\n'
-
 using namespace std;
-
-void solve(){}
-
-int32_t main(){
-  int t = 1;
-  //cin >> t;
-  while(t--)
-    solve();
+int main(){
+  cout << "hello world" << endl;
   return 0;
 }
